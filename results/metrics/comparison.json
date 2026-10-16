@@ -1,0 +1,16 @@
+{
+  "mobilenetv3": {
+    "accuracy": 0.8473684210526315,
+    "macro_precision": 0.8744529975732984,
+    "macro_recall": 0.8057244180465281,
+    "macro_f1": 0.8236948361789665,
+    "test_images": 380
+  },
+  "efficientnet_lite": {
+    "accuracy": 0.9052631578947369,
+    "macro_precision": 0.9213448077263867,
+    "macro_recall": 0.8798607251204155,
+    "macro_f1": 0.8946531892129466,
+    "test_images": 380
+  }
+}
