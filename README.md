@@ -57,16 +57,9 @@ ordering, file ordering, seed, and split logic match `train.py`.
 
 The following values are from the recorded evaluation run:
 
-  Metric                               MobileNetV3   `efficientnet_lite` model
-  --------------------------- -------------------- ---------------------------
-  Accuracy                                  84.74%                  **90.53%**
-  Macro precision                           87.45%                  **92.13%**
-  Macro recall                              80.57%                  **87.99%**
-  Macro F1-score                            82.37%                  **89.47%**
-  Test images                                  380                         380
-  Misclassified images                          58                      **36**
-  Average inference latency     **5.597 ms/image**             15.126 ms/image
-  Measured throughput               **178.68 FPS**                   66.11 FPS
+## 📊 Model Evaluation
+
+![Model Evaluation Results](results/plots/model_evaluation.png)
 
 ### Results summary
 
